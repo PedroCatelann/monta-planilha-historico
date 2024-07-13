@@ -3,3 +3,6 @@ dist/
 Levantamento_Historicos_Ajustados.xlsx
 novo_arquivo.csv
 novo_arquivo.xlsx
+Levantamento_Historicos_Importacao_DIMP.xlsx
+PM_INSERE_HISTORICOS.sql
+script_tabela_codhist.spec

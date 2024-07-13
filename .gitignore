@@ -1,5 +1,7 @@
 build/
-dist/
+dist/Levantamento_Historicos_Ajustados.xlsx
+dist/Levantamento_Historicos_Importacao_DIMP.xlsx
+dist/PM_INSERE_HISTORICOS.sql
 Levantamento_Historicos_Ajustados.xlsx
 novo_arquivo.csv
 novo_arquivo.xlsx

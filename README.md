@@ -21,9 +21,9 @@ Exemplo de formato esperado:
 ### Saída
 A aplicação irá gerar 3 arquivos de saída:
 
-`Levantamento_Historicos_Ajustados.xlsx` -> Arquivo sem duplicatas de históricos e finalidades, mas com colunas sim e não
+`Levantamento_Historicos_Ajustados.xlsx` → Arquivo sem duplicatas de históricos e finalidades, mas com colunas sim e não
 
-`Levantamento_Historicos_Importacao_DIMP.xlsx` -> Arquivo sem duplicatas de históricos e finalidades, somente com as colunas vai pro dimp sim e somente com as colunas aceitáveis para entrar na base
+`Levantamento_Historicos_Importacao_DIMP.xlsx` → Arquivo sem duplicatas de históricos e finalidades, somente com as colunas vai pro dimp sim e somente com as colunas aceitáveis para entrar na base
 
-`PM_INSERE_HISTORICOS.sql` -> Script sql com os históricos filtrados para inserção direta no banco de dados
+`PM_INSERE_HISTORICOS.sql` → Script sql com os históricos filtrados para inserção direta no banco de dados
  
